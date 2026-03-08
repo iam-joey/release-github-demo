@@ -11,6 +11,9 @@ export default function Payments() {
         <button className="rounded-full bg-zinc-900 px-6 py-3 text-sm font-medium text-white transition hover:bg-zinc-700 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">
           Add Payment Method
         </button>
+        <p className="text-xs text-zinc-400 dark:text-zinc-600">
+          All transactions are encrypted and secure.
+        </p>
       </section>
     </main>
   );
