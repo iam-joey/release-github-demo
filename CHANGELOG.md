@@ -1,3 +1,13 @@
+## [2.1.0](https://github.com/iam-joey/release-github-demo/compare/v2.0.0...v2.1.0) (2026-03-08)
+
+### Features
+
+* add payments page with billing section ([1c901f5](https://github.com/iam-joey/release-github-demo/commit/1c901f51713ca50f5cd2e72f42771031a628507d))
+
+### Bug Fixes
+
+* show security notice on payments page ([7c18a11](https://github.com/iam-joey/release-github-demo/commit/7c18a1135ae83062035b78437116b864f9210f5a))
+
 ## [2.0.0](https://github.com/iam-joey/release-github-demo/compare/v1.0.0...v2.0.0) (2026-03-08)
 
 ### ⚠ BREAKING CHANGES
