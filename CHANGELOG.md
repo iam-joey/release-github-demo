@@ -1,3 +1,18 @@
+## [2.0.0](https://github.com/iam-joey/release-github-demo/compare/v1.0.0...v2.0.0) (2026-03-08)
+
+### ⚠ BREAKING CHANGES
+
+* redesign footer with new navigation structure
+* drop support for legacy query params in about page
+
+### Features
+
+* redesign footer with new navigation structure ([e6d83c2](https://github.com/iam-joey/release-github-demo/commit/e6d83c22b43b16cc029721319bb793c40ddb73dd))
+
+### Bug Fixes
+
+* drop support for legacy query params in about page ([fa08a4d](https://github.com/iam-joey/release-github-demo/commit/fa08a4daf06d43ba171b9c16269552e4fbb14905))
+
 # 1.0.0 (2026-03-08)
 
 
