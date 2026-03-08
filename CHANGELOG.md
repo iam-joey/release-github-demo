@@ -1,3 +1,10 @@
+## [2.2.0](https://github.com/iam-joey/release-github-demo/compare/v2.1.0...v2.2.0) (2026-03-08)
+
+### Features
+
+* add bitcoin network integration ([#13](https://github.com/iam-joey/release-github-demo/issues/13)) ([f5256d0](https://github.com/iam-joey/release-github-demo/commit/f5256d0e826d4689d0590e7c1642e7526ef7f581))
+* add polygon network integration ([ac05588](https://github.com/iam-joey/release-github-demo/commit/ac05588402026ac7def958b3d2ea831c4b7b1b84))
+
 ## [2.1.0](https://github.com/iam-joey/release-github-demo/compare/v2.0.0...v2.1.0) (2026-03-08)
 
 ### Features
