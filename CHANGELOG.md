@@ -1,3 +1,13 @@
+## [3.0.0](https://github.com/iam-joey/release-github-demo/compare/v2.2.0...v3.0.0) (2026-03-08)
+
+### ⚠ BREAKING CHANGES
+
+* redesign dashboard with breaking navigation changes (#15)
+
+### Features
+
+* redesign dashboard with breaking navigation changes ([#15](https://github.com/iam-joey/release-github-demo/issues/15)) ([eac11dc](https://github.com/iam-joey/release-github-demo/commit/eac11dccc3300c02fe11160375e577241805db31))
+
 ## [2.2.0](https://github.com/iam-joey/release-github-demo/compare/v2.1.0...v2.2.0) (2026-03-08)
 
 ### Features
