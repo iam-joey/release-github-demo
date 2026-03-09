@@ -1,3 +1,9 @@
+## [3.1.0](https://github.com/iam-joey/release-github-demo/compare/v3.0.0...v3.1.0) (2026-03-09)
+
+### Features
+
+* This is a fix realted to z-cash ([#17](https://github.com/iam-joey/release-github-demo/issues/17)) ([3ee2aa6](https://github.com/iam-joey/release-github-demo/commit/3ee2aa6308a3a8cb139b4fd0205c8a8dea74782a))
+
 ## [3.0.0](https://github.com/iam-joey/release-github-demo/compare/v2.2.0...v3.0.0) (2026-03-08)
 
 ### ⚠ BREAKING CHANGES
