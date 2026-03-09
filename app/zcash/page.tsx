@@ -13,3 +13,4 @@ export default function Zcash() {
   );
 }
 tweaking ui
+better now
