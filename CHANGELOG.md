@@ -1,3 +1,9 @@
+## [3.2.0](https://github.com/iam-joey/release-github-demo/compare/v3.1.0...v3.2.0) (2026-03-13)
+
+### Features
+
+* adding etheruem ([f181a71](https://github.com/iam-joey/release-github-demo/commit/f181a712ea753f5d9142603deaec19a2dac22952))
+
 ## [3.1.0](https://github.com/iam-joey/release-github-demo/compare/v3.0.0...v3.1.0) (2026-03-09)
 
 ### Features
