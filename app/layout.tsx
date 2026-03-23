@@ -35,6 +35,7 @@ export default function RootLayout({
           <div className="flex items-center gap-6 text-sm text-zinc-500 dark:text-zinc-400">
             <a href="/" className="hover:text-zinc-900 dark:hover:text-white">Home</a>
             <a href="/about" className="hover:text-zinc-900 dark:hover:text-white">About</a>
+            <a href="/solana" className="hover:text-zinc-900 dark:hover:text-white">Solana</a>
           </div>
         </nav>
         {children}

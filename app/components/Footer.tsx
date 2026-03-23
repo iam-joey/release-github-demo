@@ -8,6 +8,9 @@ export default function Footer() {
         <a href="/about" className="hover:text-zinc-900 dark:hover:text-white">
           About
         </a>
+        <a href="/solana" className="hover:text-zinc-900 dark:hover:text-white">
+          Solana
+        </a>
         <a
           href="https://github.com/iam-joey/release-github-demo"
           target="_blank"
